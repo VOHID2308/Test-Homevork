@@ -1,0 +1,2 @@
+ism = "Abduuvohid"
+print (ism)
