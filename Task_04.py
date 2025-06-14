@@ -1,0 +1,2 @@
+shaxar = "Samarqand"
+print (shaxar)
