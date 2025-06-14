@@ -1,0 +1,2 @@
+familya = "Mastonov"
+pirint (familya)
